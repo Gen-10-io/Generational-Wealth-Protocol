@@ -46,9 +46,9 @@ GWP is in its early stages, and we need **your** help to make it a reality. Whet
 - **Spread the Word**: Help build a community around long-term wealth and interstellar cooperation.
 
 ## 📚 Resources
-- [White Paper Draft](https://link-to-whitepaper)
-- [Discussion Forum](https://link-to-forum)
+- [White Paper](/docs/whitepaper.md) 
 - [License: MIT](https://opensource.org/licenses/MIT)
+- Follow: [@gen-10-io](https://github.com/gen-10-io)
 
 > "By planting Bitcoin seeds today, we cultivate a forest of wealth for tomorrow’s interstellar civilizations."  
 > — GWP Vision
